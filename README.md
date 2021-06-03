@@ -6,7 +6,7 @@ Image statistics are common features in AI applications.
 ## Setup
 Git all the files to a directory in your system.
 ```bash
-git clone https://github.com/naderhammoud1495/SeeTree.git
+git clone https://github.com/naderhammoud1495/Seetree.git
 ```
 
 ## RUN using Flask
