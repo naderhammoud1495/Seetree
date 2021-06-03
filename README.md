@@ -11,7 +11,7 @@ git clone https://github.com/naderhammoud1495/Seetree.git
 
 ## RUN using Flask
 
-Open the Command Prompt and enter "SeeTree" folder.
+Open the Command Prompt and enter "Seetree" folder.
 To start the server, run the following:
 ```bash
 py -m pip install -r requirements.txt
