@@ -22,7 +22,7 @@ Open https://127.0.0.1:5000 on your browser and start your trip in the website.
 
 ## RUN using Dockerfile
 
-Open the Command Prompt and enter "SeeTree" folder.
+Open the Command Prompt and enter "Seetree" folder.
 To start the web, run the following to create the image for the docker:
 ```bash
 docker build -t seetree-nader .
