@@ -53,12 +53,12 @@ e-  pXXX where XXX is a percentile between 0...100 :
 For example p10 is the 10th percentile of the image, p80 is the 80th percentile                          
 
 ## Examples
-1. Request to /stats/IMG_3.jpg/min responds with the correct min value in the
+1. Request to /stats/IMG_1.jpg/min responds with the correct min value in the
    image.
 
-2. Request to /stats/IMG_5.jpg/blah responds with 404 error code.
+2. Request to /stats/IMG_7.jpg/nader responds with 404 error code.
 
-3. Request to /stats/IMG_99.jpg/min responds with 404 error code.
+3. Request to /stats/IMG_113.jpg/min responds with 404 error code.
 
 4. Request to /stats/IMG_4.jpg/p10 responds with the 10'th percentile of the image.
   
