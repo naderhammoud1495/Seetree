@@ -18,7 +18,7 @@ py -m pip install -r requirements.txt
 set FLASK_APP=main.py
 python -m flask run 
 ```
-Open https://127.0.0.0:5000 on your browser and start your trip in the website. 
+Open https://127.0.0.1:5000 on your browser and start your trip in the website. 
 
 ## RUN using Dockerfile
 
