@@ -1,6 +1,7 @@
 # Junior SW engineer task-seetree
 In this assignment we implemented Flask -webserver that handles calculation of image statistics.
 With the giving image we calculated different functions: min,max,mean,median and percentile.
+Image statistics are common features in AI applications.
 
 ## Setup
 Git all the files to a directory in your system.
