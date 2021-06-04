@@ -33,6 +33,13 @@ docker run -d -p 5000:5000 seetree-nader
 ```
 Navigate to this url in your browser: http://127.0.0.1:5000 . 
 
+## RUN using docker-compose
+
+Run the project in docker-compose with this command :
+```bash
+docker-compose up --build -d
+```
+
 ## The Supported URLs after starting the application:
 * http://127.0.0.1:5000/ 
   home page with all the images
