@@ -15,7 +15,7 @@ Open the Command Prompt and enter "Seetree" folder.
 To start the server, run the following:
 ```bash
 py -m pip install -r requirements.txt
-set FLASK_APP=main.py
+set FLASK_APP=seetree_task.py
 python -m flask run 
 ```
 Open https://127.0.0.1:5000 on your browser and start your trip in the website. 
