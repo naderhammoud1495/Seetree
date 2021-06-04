@@ -84,6 +84,10 @@ For example p10 is the 10th percentile of the image, p80 is the 80th percentile
 ## The server respond with error code 404 if you choose a function that does not exist:
 ![image](https://user-images.githubusercontent.com/57456841/120870732-52d50c80-c5a2-11eb-9f83-3162dd303cdf.png)
 
+## Example:Request to /stats/IMG_6.jpg/max responds with the correct max value in the image:
+![image](https://user-images.githubusercontent.com/57456841/120870967-15bd4a00-c5a3-11eb-9031-0ea1d76437df.png)
+
+
 
 
 
