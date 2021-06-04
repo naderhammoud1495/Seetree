@@ -68,5 +68,10 @@ For example p10 is the 10th percentile of the image, p80 is the 80th percentile
 3. Request to /stats/IMG_113.jpg/min responds with 404 error code.
 
 4. Request to /stats/IMG_4.jpg/p10 responds with the 10'th percentile of the image.
-  
+
+## The homepage: you want to choose a photo and a function:
+![image](https://user-images.githubusercontent.com/57456841/120870071-9f1f4d00-c5a0-11eb-999a-adaeb79e3d03.png)
+
+
+
 
