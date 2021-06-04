@@ -72,6 +72,19 @@ For example p10 is the 10th percentile of the image, p80 is the 80th percentile
 ## The homepage: you want to choose a photo and a function:
 ![image](https://user-images.githubusercontent.com/57456841/120870071-9f1f4d00-c5a0-11eb-999a-adaeb79e3d03.png)
 
+## /health : will respond with “OK” to any request:
+![image](https://user-images.githubusercontent.com/57456841/120870231-1359f080-c5a1-11eb-8318-6d80670abbac.png)
+
+## The server respond with error code 404 when you choose any wrong url:
+![image](https://user-images.githubusercontent.com/57456841/120870477-b6ab0580-c5a1-11eb-8eb9-d155ed11f19d.png)
+
+## The server respond with error code 404 if you choose an image that does not exist:
+![image](https://user-images.githubusercontent.com/57456841/120870644-1bfef680-c5a2-11eb-8b4c-998cfa34206c.png)
+
+## The server respond with error code 404 if you choose a function that does not exist:
+![image](https://user-images.githubusercontent.com/57456841/120870732-52d50c80-c5a2-11eb-9f83-3162dd303cdf.png)
+
+
 
 
 
