@@ -87,6 +87,9 @@ For example p10 is the 10th percentile of the image, p80 is the 80th percentile
 ## Example:Request to /stats/IMG_6.jpg/max responds with the correct max value in the image:
 ![image](https://user-images.githubusercontent.com/57456841/120870967-15bd4a00-c5a3-11eb-9031-0ea1d76437df.png)
 
+## Bonus solution:
+I made a dictionary that save the images value , i don't have to wait until all the image processing done when I go another time to check the same imag and that will save our time and make multiple identical requests more efficient.
+
 
 
 
