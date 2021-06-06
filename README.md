@@ -58,6 +58,7 @@ c- mean: computes Average (arithmetic mean) pixel level in the image.
 d- median: computes the median/middle of image pixel values                                                                       
 e-  pXXX where XXX is a percentile between 0...100 :                                                           
 For example p10 is the 10th percentile of the image, p80 is the 80th percentile
+
 You can only select 50 and if you want to check another percentage you should check by using a suitable routh directly.
 
 ## Examples
