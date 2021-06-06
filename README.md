@@ -59,7 +59,7 @@ d- median: computes the median/middle of image pixel values
 e-  pXXX where XXX is a percentile between 0...100 :                                                           
 For example p10 is the 10th percentile of the image, p80 is the 80th percentile
 
-You can only select 50 and if you want to check another percentage you should check by using a suitable routh directly.
+You can only select p50 and if you want to check another percentage you should check by using a suitable routh directly.
 
 ## Examples
 1. Request to /stats/IMG_1.jpg/min responds with the correct min value in the
